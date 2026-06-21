@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vmstudiodharmapuri.com/sitemap.xml
+Sitemap: https://lilith-11.github.io/Visithiran/sitemap.xml
